@@ -1,8 +1,9 @@
 ![header](imgs/header.jpg)
 
 # PROIA (created in conjunction with EULER)
-
-
+___
+"We are working on our own project called PROIA belonging to EULER"
+___
 This is an unofficial personal project. PROIA is a version of AlphaFold, with all rights reserved by Google DeepMind.
 This package provides an implementation of the PROIA v2 inference pipeline, which we'll refer to simply as PROIA.
 We also provide:
