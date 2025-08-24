@@ -1,6 +1,9 @@
-header
-AlphaFold
-This package provides an implementation of the inference pipeline of AlphaFold v2. For simplicity, we refer to this model as AlphaFold throughout the rest of this document.
+![header](imgs/header.jpg)
+
+#AlphaFold
+
+This package provides an implementation of 
+the inference pipeline of AlphaFold v2. For simplicity, we refer to this model as AlphaFold throughout the rest of this document.
 
 We also provide:
 
