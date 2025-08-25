@@ -1,6 +1,6 @@
 ![header](imgs/header.jpg)
 
-PROIA: An Educational Project 📝
+>PROIA: An Educational Project 📝<
 This project, named PROIA, is an educational initiative that acknowledges the original work and intellectual property of Google DeepMind and its dedicated employees. It does not intend to plagiarate or steal anyone's work.
 What is AlphaFold? 🧬
 AlphaFold is a software package that provides an implementation of the inference pipeline for AlphaFold v2, a highly accurate model for predicting protein structures. This document also covers AlphaFold-Multimer, a version for predicting protein complexes.
